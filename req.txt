@@ -1,3 +1,5 @@
 django
 djangorestframework
 djangorestframework-simplejwt
+Pillow
+django-filter
